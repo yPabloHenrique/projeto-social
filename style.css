@@ -11,7 +11,7 @@ html, body {
     background-color: black;
 }
 body {
-    background-image: url("imagens/fundo-madeira.jpg") no-repeat;
+    background-image: url("imagens/fundo.jpg") no-repeat;
 }
 main {
     height: 100vh;
